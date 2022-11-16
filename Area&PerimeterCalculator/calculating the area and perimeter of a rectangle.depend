@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668606623 source:c:\users\igami\desktop\c\calculating the area and perimeter of a rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
